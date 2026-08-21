@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
