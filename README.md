@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0055-jump-game) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
