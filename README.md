@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
+| [3875-construct-uniform-parity-array-i](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0070-climbing-stairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
