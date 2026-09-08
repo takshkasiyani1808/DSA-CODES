@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
+| [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0056-merge-intervals) |
+| [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
 |  |
 | ------- |
@@ -83,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0104-maximum-depth-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
