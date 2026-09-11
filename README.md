@@ -50,6 +50,7 @@
 | [0070-climbing-stairs](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0070-climbing-stairs) |
 | [2396-strictly-palindromic-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2469-convert-the-temperature) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2396-strictly-palindromic-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
