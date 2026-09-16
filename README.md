@@ -13,6 +13,7 @@
 | [0058-length-of-last-word](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0179-largest-number) |
 | [0771-jewels-and-stones](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0771-jewels-and-stones) |
+| [3110-score-of-a-string](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3110-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
