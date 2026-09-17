@@ -56,6 +56,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0771-jewels-and-stones) |
+| [3945-digit-frequency-score](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3945-digit-frequency-score) |
 ## Brainteaser
 |  |
 | ------- |
