@@ -41,6 +41,7 @@
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
+| [1929-concatenation-of-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2942-find-words-containing-character) |
 | [3875-construct-uniform-parity-array-i](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3875-construct-uniform-parity-array-i) |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2574-left-and-right-sum-differences) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
