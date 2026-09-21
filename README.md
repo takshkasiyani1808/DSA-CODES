@@ -13,6 +13,7 @@
 | [0058-length-of-last-word](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0179-largest-number) |
 | [0771-jewels-and-stones](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1021-remove-outermost-parentheses) |
 | [2942-find-words-containing-character](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3280-convert-date-to-binary) |
@@ -125,4 +126,12 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1929-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
