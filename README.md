@@ -56,6 +56,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0070-climbing-stairs) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2769-find-the-maximum-achievable-number) |
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1021-remove-outermost-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
