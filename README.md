@@ -61,6 +61,7 @@
 | [2396-strictly-palindromic-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3280-convert-date-to-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3783-mirror-distance-of-an-integer) |
