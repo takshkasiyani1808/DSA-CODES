@@ -51,11 +51,13 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0070-climbing-stairs) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2396-strictly-palindromic-number) |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
