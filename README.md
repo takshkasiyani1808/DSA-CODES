@@ -44,6 +44,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [1929-concatenation-of-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2942-find-words-containing-character) |
 | [3875-construct-uniform-parity-array-i](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3875-construct-uniform-parity-array-i) |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
