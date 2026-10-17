@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2396-strictly-palindromic-number) |
 ## String
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
@@ -76,6 +78,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0070-climbing-stairs) |
 ## Greedy
@@ -145,6 +148,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -162,4 +166,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2778-sum-of-squares-of-special-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
