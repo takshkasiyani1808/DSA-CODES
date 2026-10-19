@@ -45,6 +45,7 @@
 | [0056-merge-intervals](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [1929-concatenation-of-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2574-left-and-right-sum-differences) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
 |  |
@@ -128,6 +130,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0771-jewels-and-stones) |
 | [3945-digit-frequency-score](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3945-digit-frequency-score) |
