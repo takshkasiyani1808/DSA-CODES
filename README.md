@@ -3,6 +3,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0042-trapping-rain-water) |
@@ -40,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0042-trapping-rain-water) |
@@ -94,6 +96,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0217-contains-duplicate) |
