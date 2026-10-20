@@ -6,6 +6,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2396-strictly-palindromic-number) |
 ## String
@@ -13,6 +14,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0179-largest-number) |
 | [0771-jewels-and-stones](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1021-remove-outermost-parentheses) |
