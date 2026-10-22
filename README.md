@@ -58,6 +58,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2942-find-words-containing-character) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1929-concatenation-of-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Newton's Method
 |  |
 | ------- |
