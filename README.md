@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
+| [2000-reverse-prefix-of-word](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
@@ -19,6 +20,7 @@
 | [0179-largest-number](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0179-largest-number) |
 | [0771-jewels-and-stones](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2000-reverse-prefix-of-word) |
 | [2942-find-words-containing-character](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/3280-convert-date-to-binary) |
@@ -160,6 +162,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
 | ------- |
