@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0125-valid-palindrome) |
@@ -69,6 +70,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0070-climbing-stairs) |
@@ -138,6 +140,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0771-jewels-and-stones) |
