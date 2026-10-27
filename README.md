@@ -189,4 +189,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/takshkasiyani1808/DSA-CODES/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
